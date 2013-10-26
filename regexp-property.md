@@ -130,6 +130,10 @@ $1-$9
 
 参见：
 ---
-http://msdn.microsoft.com/en-us/library/ie/9dthzd08(v=vs.94).aspx
-http://www.visibone.com/regular-expressions/
-正则可视化工具：http://www.regexper.com/
+- http://msdn.microsoft.com/en-us/library/ie/9dthzd08(v=vs.94).aspx
+- ttp://www.visibone.com/regular-expressions/
+- 则可视化工具：http://www.regexper.com/
+
+tags
+--
+**javascript** **regex**
